@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+
+I go by Oce4nM4n on most of the internet! Currently just working on any projects i find fun, some of which may be public under my profile. 
+
+
 <!--
 **Oce4nM4n/Oce4nM4n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +18,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
